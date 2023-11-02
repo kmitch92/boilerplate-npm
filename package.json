@@ -2,6 +2,12 @@
   "name": "fcc-learn-npm-package-json",
   "author": "Kiel Mitchell",
   "description": "FCC project with npm",
+  "keywords": [
+    "freecodecamp",
+    "npm",
+    "backend",
+    "package.json"
+  ],
   "dependencies": {
     "express": "^4.14.0"
   },
